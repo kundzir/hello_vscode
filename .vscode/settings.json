@@ -1,3 +1,7 @@
 {
-   "editor.linkedEditing": true
+   "editor.linkedEditing": true,
+   "projectManager.git.baseFolders": [
+      "F:\\web",
+      "F:\\HELLO_VSCODE"
+   ]
 }
